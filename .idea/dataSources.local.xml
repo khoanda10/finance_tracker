@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal" created-in="RM-213.6777.43">
-    <data-source name="postgres@localhost" uuid="fe6009fd-6dcc-451f-90fc-540bd7953de7">
-      <database-info product="PostgreSQL" version="12.9 (Ubuntu 12.9-0ubuntu0.20.04.1)" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.2.22" dbms="POSTGRES" exact-version="12.9" exact-driver-version="42.2">
+    <data-source name="PostgreSQL - postgres@localhost" uuid="b05ff2e6-f617-4cb4-991a-935cdab75357">
+      <database-info product="PostgreSQL" version="12.9 (Ubuntu 12.9-0ubuntu0.20.04.1)" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.3.3" dbms="POSTGRES" exact-version="12.9" exact-driver-version="42.3">
         <identifier-quote-string>&quot;</identifier-quote-string>
       </database-info>
       <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
